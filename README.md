@@ -168,7 +168,7 @@ Data-Analytics-Project/
 
 ## Author
 
-**Your Name**
+Areeb Akhtar
 
 If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
 
