@@ -33,13 +33,9 @@ The analysis includes:
 
   * Python
   * Pandas
-  * NumPy
-  * Matplotlib
   * Jupyter Notebook
 * **PostgreSQL**
-* **SQL**
 * **Power BI**
-* **Microsoft PowerPoint**
 * **Gamma** (for presentation creation)
 
 ---
