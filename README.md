@@ -5,6 +5,12 @@
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data processing to interactive dashboard creation and business reporting. The project covers data loading, exploratory data analysis (EDA), data cleaning, SQL analysis using PostgreSQL, dashboard development in Power BI, and presentation of insights.
 
+
+
+![image alt](https://github.com/ArivIQ/customer_behavior_analysis/blob/2622ea424aab5804db30e0c4c8b3327e3b01a74f/Screenshot%202026-07-05%20195451.png)
+
+
+
 ---
 
 ## Dataset
